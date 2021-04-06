@@ -1,0 +1,181 @@
+JumpPads:
+  world, -362, 65, 361:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -348, 65, 365:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -347, 65, 365:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -346, 65, 364:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -347, 65, 362:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -349, 65, 362:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -350, 65, 362:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -352, 65, 363:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -353, 65, 363:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -355, 65, 363:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -356, 65, 360:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -356, 65, 359:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -357, 65, 356:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -355, 65, 355:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -354, 65, 355:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -352, 65, 353:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -352, 65, 352:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -348, 65, 352:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -346, 65, 353:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -349, 65, 359:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -349, 65, 360:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -352, 65, 361:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -353, 65, 361:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -355, 65, 362:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -356, 65, 362:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -358, 65, 362:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -362, 65, 363:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -363, 65, 363:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -365, 65, 363:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
+  world, -366, 65, 361:
+    owners:
+    - 70cf9c87-7ba4-31b5-bfe4-a0d3f30752f6
+    plate: WOOD_PLATE
+    power: 40.0
+    angle: 45.0
